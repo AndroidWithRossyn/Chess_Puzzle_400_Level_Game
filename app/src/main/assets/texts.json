@@ -1,0 +1,560 @@
+{
+  "stringresources": {
+    "strings": {
+      "string": [
+        {
+          "-id": "1",
+          "en": "en",
+          "de": "de",
+          "es": "es",
+          "fr": "fr",
+          "it": "it",
+          "pt": "pt",
+          "ru": "ru",
+          "ar": "عربي"
+        },
+        {
+          "-id": "ID",
+          "en": "",
+          "de": "",
+          "es": "",
+          "fr": "",
+          "it": "",
+          "pt": "",
+          "ru": "",
+		  "ar": ""
+        },
+        {
+          "-id": "PAUSE",
+          "en": "PAUSE",
+          "de": "PAUSE",
+          "es": "PAUSA",
+          "fr": "PAUSE",
+          "it": "PAUSA",
+          "pt": "PAUSAR",
+          "ru": "ПАУЗА",
+		  "ar": "إيقاف مؤقت"
+        },
+        {
+          "-id": "PICK_YOUR_FLAG",
+          "en": "PICK YOUR AVATAR",
+          "de": "WÄHLE DEINEN AVATAR",
+          "es": "ELIGE AVATAR",
+          "fr": "CHOISISSEZ VOTRE AVATAR",
+          "it": "SCEGLI IL TUO AVATAR",
+          "pt": "ESCOLHA SEU AVATAR",
+          "ru": "ВЫБЕРИТЕ СВОЙ АВАТАР",
+          "ar": "إختار العلم المناسب لك"
+        },
+        {
+          "-id": "EARN_ACHIEVEMENTS",
+          "en": "EARN ACHIEVEMENTS TO UNLOCK MORE FLAGS",
+          "de": "SAMMLE ERFOLGE, UM MEHR FLAGGEN FREIZUSCHALTEN",
+          "es": "CONSIGUE LOGROS PARA DESBLOQUEAR MÁS BANDERAS",
+          "fr": "GAGNER DES SUCCÈS POUR DÉVERROUILLER PLUS DE DRAPEAUX",
+          "it": "RAGGIUNGI GLI OBIETTIVI PER SBLOCCARE PIÙ BANDIERE",
+          "pt": "GANHE CONQUISTAS PARA DESBLOQUEAR MAIS BANDEIRAS",
+          "ru": "ЗАРАБАТЫВАЙТЕ ДОСТИЖЕНИЯ, ЧТОБЫ РАЗБЛОКИРОВАТЬ БОЛЬШЕ ФЛАГОВ",
+          "ar": "اكسب النقاط للحصول عالمزيد من الأعلام"
+        },
+        {
+          "-id": "LEVEL",
+          "en": "Level",
+          "de": "Level",
+          "es": "Nivel",
+          "fr": "Niveau",
+          "it": "Livello",
+          "pt": "Nível",
+          "ru": "Уровень",
+          "ar": "المستوى"
+        },
+        {
+          "-id": "INSTR_TXT",
+          "en": "INSTRUCTIONS",
+          "de": "ANLEITUNG",
+          "es": "INSTRUCCIONES",
+          "fr": "INSTRUCTIONS",
+          "it": "ISTRUZIONI",
+          "pt": "INSTRUÇÕES",
+          "ru": "ИНСТРУКЦИЯ",
+          "ar": "التعليمات"
+        },
+        {
+          "-id": "ACHIEVEMENTS",
+          "en": "ACHIEVEMENTS",
+          "de": "ERFOLGE",
+          "es": "LOGROS",
+          "fr": "SUCCÈS",
+          "it": "OBIETTIVI",
+          "pt": "CONQUISTAS",
+          "ru": "ДОСТИЖЕНИЯ",
+          "ar": "إنجازاتك"
+        },
+        {
+          "-id": "INSTRUCTIONS",
+          "en": "Tap buttons and chess pieces for corresponding actions. Standard chess rules apply. Checkmate your opponent to complete your current level. Complete achievements to unlock more flags.",
+          "de": "Tippe auf Schaltflächen und Schachfiguren, um die entsprechenden Aktionen auszuführen. Es gelten die normalen Schach-Regeln. Setze deinen Gegner Schachmatt, um den aktuellen Level abzuschließen. Sammle Erfolge, um mehr Flaggen freizuschalten.",
+          "es": "Toca los botones y las piezas de ajedrez para realizar la acción correspondiente. Se aplican las reglas estándar del ajedrez. Deja en jaque mate a tu rival para completar el nivel actual. Completa los logros para desbloquear más banderas.",
+          "fr": "Touchez les boutons et les pièces des échecs pour réaliser les actions correspondantes. Les règles standard des échecs sont appliquées. Mettez votre adversaire échec et mat pour terminer le niveau en cours. Obtenez des succès pour débloquer plus de drapeaux.",
+          "it": "Tocca i pulsanti e le pedine per eseguire le azioni corrispondenti. Si applicano le regole standard degli scacchi. Dai scacco matto al tuo avversario per completare il tuo livello attuale. Completa gli obiettivi per sbloccare più bandiere.",
+          "pt": "Toque nos botões e nas peças de xadrez para ver as ações correspondentes. Aplicam-se as regras de xadrez padrão. Dê xeque-mate em seu oponente para concluir o nível atual. Finalize as conquistas para desbloquear mais bandeiras.",
+          "ru": "Нажимайте на кнопки и шахматные фигуры для выполнения соответствующих действий. Используются стандартные шахматные правила. Поставьте мат своему противнику, чтобы завершить текущий уровень. Выполняйте достижения, чтобы разблокировать больше флагов.",
+          "ar": "اظغط عالأزرار وقطع الشطرنج للقضاء على خصمك. يتم تطبيققواعد الشطرنج الأساسية في هذي اللعبة. الهدف هو إنهاء خصمك بنقلة كش مات لإنهاء المستوى. أنهي المستويات لإستلام أعلام جديدة في اللعبة "
+        },
+        {
+          "-id": "CHANGE",
+          "en": "CHANGE",
+          "de": "ÄNDERN",
+          "es": "CAMBIAR",
+          "fr": "CHANGER",
+          "it": "MODIFICA",
+          "pt": "MUDAR",
+          "ru": "ИЗМЕНИТЬ",
+          "ar": "تغيير"
+        },
+        {
+          "-id": "BEST_MOVE",
+          "en": "FIND THE BEST MOVE IN",
+          "de": "FINDE DEN BESTEN ZUG IN",
+          "es": "ENCONTRAR EL MEJOR MOVIMIENTO EN",
+          "fr": "TROUVER LE MEILLEUR COUP EN",
+          "it": "TROVA LA MOSSA MIGLIORE IN",
+          "pt": "ENCONTRE A MELHOR JOGADA EM",
+          "ru": "НАЙТИ ЛУЧШИЙ ХОД ЗА",
+          "ar": "أوجد أفضل حركة في "
+        },
+        {
+          "-id": "MATE_IN",
+          "en": "MATE IN",
+          "de": "MATT IN",
+          "es": "MATE EN",
+          "fr": "MAT EN",
+          "it": "SCACCO IN",
+          "pt": "MATE EM",
+          "ru": "МАТ ЗА",
+          "ar": "كش مات في"
+        },
+        {
+          "-id": "CHECKMATE",
+          "en": "CHECKMATE",
+          "de": "SCHACHMATT",
+          "es": "JAQUE MATE",
+          "fr": "ÉCHEC ET MAT",
+          "it": "SCACCO MATTO",
+          "pt": "XEQUE-MATE",
+          "ru": "ШАХ И МАТ",
+          "ar": "كش مات"
+        },
+        {
+          "-id": "WELL_DONE",
+          "en": "WELL DONE!",
+          "de": "SEHR GUT!",
+          "es": "¡BIEN HECHO!",
+          "fr": "BIEN JOUÉ !",
+          "it": "BEN FATTO!",
+          "pt": "MUITO BEM!",
+          "ru": "ОТЛИЧНО СРАБОТАНО!",
+          "ar": "أحسنت!"
+        },
+        {
+          "-id": "MOVES",
+          "en": "MOVES",
+          "de": "ZÜGE",
+          "es": "MOVIMIENTOS",
+          "fr": "COUPS",
+          "it": "MOSSE",
+          "pt": "MOVIMENTOS",
+          "ru": "ХОДОВ",
+          "ar": "نقلات"
+        },
+        {
+          "-id": "HINT",
+          "en": "HINT",
+          "de": "HINWEIS",
+          "es": "PISTA",
+          "fr": "INDICE",
+          "it": "SUGGERIMENTO",
+          "pt": "DICA",
+          "ru": "ПОДСКАЗКА",
+          "ar": "تلميح"
+        },
+        {
+          "-id": "HARD",
+          "en": "HARD",
+          "de": "SCHWER",
+          "es": "DIFÍCIL",
+          "fr": "DIFFICILE",
+          "it": "DIFFICILE",
+          "pt": "DIFÍCIL",
+          "ru": "ТЯЖЁЛЫЙ",
+          "ar": "صعب"
+        },
+        {
+          "-id": "TITLE_00",
+          "en": "BEGINNING",
+          "de": "ANFANG",
+          "es": "BUEN COMIENZO",
+          "fr": "DÉBUTS",
+          "it": "INIZIO",
+          "pt": "INÍCIO",
+          "ru": "НАЧАЛО",
+          "ar": "للمبتدئين"
+        },
+        {
+          "-id": "TITLE_01",
+          "en": "ANALYZER",
+          "de": "ANALYST",
+          "es": "ANALIZADOR",
+          "fr": "ANALYSEUR",
+          "it": "ANALIZZATORE",
+          "pt": "ANALISADOR",
+          "ru": "АНАЛИЗАТОР",
+          "ar": "محلل"
+        },
+        {
+          "-id": "TITLE_02",
+          "en": "NO HINTS",
+          "de": "KEINE TIPPS",
+          "es": "SIN PISTAS",
+          "fr": "PAS D'INDICES",
+          "it": "NESSUN SUGGERIMENTO",
+          "pt": "SEM DICAS",
+          "ru": "БЕЗ ПОДСКАЗОК",
+          "ar": "بدون تلميح"
+        },
+        {
+          "-id": "TITLE_03",
+          "en": "EN PASSANT",
+          "de": "EN PASSANT",
+          "es": "AL PASO",
+          "fr": "EN PASSANT",
+          "it": "EN PASSANT",
+          "pt": "EN PASSANT",
+          "ru": "МИМОХОДОМ",
+          "ar": "الأخذ بل تجاوز"
+        },
+        {
+          "-id": "TITLE_04",
+          "en": "KILLER QUEEN",
+          "de": "KILLER-DAME",
+          "es": "REINA ASESINA",
+          "fr": "REINE TUEUSE",
+          "it": "REGINA ASSASSINA",
+          "pt": "RAINHA ASSASSINA",
+          "ru": "УБИЙЦА КОРОЛЕВ",
+          "ar": "الملكة القاتلة"
+        },
+        {
+          "-id": "TITLE_05",
+          "en": "COLLECTOR",
+          "de": "SAMMLER",
+          "es": "COLECCIONISTA",
+          "fr": "COLLECTIONNEUR",
+          "it": "CORONAMENTO",
+          "pt": "COLECIONADOR",
+          "ru": "КОЛЛЕКТОР",
+          "ar": "جامع"
+        },
+        {
+          "-id": "TITLE_06",
+          "en": "STRATEGIST",
+          "de": "STRATEGE",
+          "es": "ESTRATEGA",
+          "fr": "STRATÈGE",
+          "it": "STRATEGA",
+          "pt": "ESTRATEGISTA",
+          "ru": "СТРАТЕГ",
+          "ar": "الإستراتيجي"
+        },
+        {
+          "-id": "TITLE_07",
+          "en": "DISCOVERED ATTACK",
+          "de": "ENTDECKTER ANGRIFF",
+          "es": "ATAQUE DESCUBIERTO",
+          "fr": "ATTAQUE DÉCOUVERTE",
+          "it": "ATTACCO SCOPERTO",
+          "pt": "ATAQUE DESCOBERTO",
+          "ru": "ОБНАРУЖЕННАЯ АТАКА",
+          "ar": "الهجوم المكتشف"
+        },
+        {
+          "-id": "TITLE_08",
+          "en": "KINGSLAYER",
+          "de": "KÖNIGSMÖRDER",
+          "es": "EXTERMINADOR DE REYES",
+          "fr": "TUEUR DE ROI",
+          "it": "STERMINATORE DI RE",
+          "pt": "MATADOR DE REI",
+          "ru": "УБИЙЦА КОРОЛЯ",
+          "ar": "مدمر الملك"
+        },
+        {
+          "-id": "TITLE_09",
+          "en": "CHECKMATE",
+          "de": "SCHACHMATT",
+          "es": "JAQUE MATE",
+          "fr": "ÉCHEC ET MAT",
+          "it": "SCACCO MATTO",
+          "pt": "XEQUE-MATE",
+          "ru": "ШАХ И МАТ",
+          "ar": "كش مات"
+        },
+        {
+          "-id": "TITLE_10",
+          "en": "STANDARD BEARER",
+          "de": "BANNERTRÄGER",
+          "es": "PORTAESTANDARTE",
+          "fr": "PORTEUR STANDARD",
+          "it": "PORTATORE STANDARD",
+          "pt": "PORTA-BANDEIRA",
+          "ru": "СТАНДАРТНЫЙ НОСИТЕЛЬ",
+          "ar": "حامل المعيار"
+        },
+        {
+          "-id": "TITLE_11",
+          "en": "DEVIL'S WORK",
+          "de": "TEUFELSWERK",
+          "es": "OBRA DEL DIABLO",
+          "fr": "L'ŒUVRE DU DIABLE",
+          "it": "OPERA DEL DIAVOLO",
+          "pt": "OBRA DO DIABO",
+          "ru": "РАБОТА ДЬЯВОЛА",
+          "ar": "عمل الخبيث"
+        },
+        {
+          "-id": "TITLE_12",
+          "en": "CHESS KING",
+          "de": "SCHACHKÖNIG",
+          "es": "REY DEL AJEDREZ",
+          "fr": "ROI DES ÉCHECS",
+          "it": "RE DEGLI SCACCHI",
+          "pt": "REI DO XADREZ",
+          "ru": "КОРОЛЬ ШАХМАТ",
+          "ar": "ملك الشطرنج"
+        },
+
+        {
+          "-id": "SUBTITLE_00",
+          "en": "Beat Level 25",
+          "de": "Löse Level 25",
+          "es": "Supera el nivel 25",
+          "fr": "Terminer le niveau 25",
+          "it": "Supera il livello 25",
+          "pt": "Vencer Nível 25",
+          "ru": "Закончить 25 уровней",
+          "ar": "أنهي مستوى رقم 25"
+        },
+        {
+          "-id": "SUBTITLE_01",
+          "en": "Beat Level 50",
+          "de": "Löse Level 50",
+          "es": "Supera el nivel 50",
+          "fr": "Terminer le niveau 50",
+          "it": "Supera il livello 50",
+          "pt": "Vencer Nível 50",
+          "ru": "Закончить 50 уровней",
+          "ar": "أنهي مستوى 50"
+        },
+        {
+          "-id": "SUBTITLE_02",
+          "en": "Beat 50 levels without using hints",
+          "de": "Löse 50 Level ohne Tipps",
+          "es": "Supera 50 niveles sin pistas",
+          "fr": "Terminer 50 niveaux sans utiliser les indices",
+          "it": "Supera 50 livelli senza usare i suggerimenti",
+          "pt": "Vença 50 níveis sem usar dicas",
+          "ru": "Пройди 50 уровней без использования подсказок",
+          "ar":"أنهي 50 مستوى بدون إستخدام زر التلميح"
+        },
+        {
+          "-id": "SUBTITLE_03",
+          "en": "Beat Level 100",
+          "de": "Löse Level 100",
+          "es": "Supera el nivel 100",
+          "fr": "Terminer le niveau 100",
+          "it": "Supera il livello 100",
+          "pt": "Vencer Nível 100",
+          "ru": "Закончить 100 уровней",
+          "ar": "أنهي مستوى رقم 100"
+        },
+        {
+          "-id": "SUBTITLE_04",
+          "en": "Mate with Queen 50 times",
+          "de": "Setze 50-mal mit der Dame schachmatt",
+          "es": "Consigue un mate con la reina 50 veces",
+          "fr": "Faire échec et mat avec la Reine 50 fois",
+          "it": "Fai scacco con la regina 50 volte",
+          "pt": "Mate com a rainha 50 vezes",
+          "ru": "Мат с королевой 50 раз",
+          "ar": "أنهي على خصمك 50 مرة بإستخدام الملكة"
+        },
+        {
+          "-id": "SUBTITLE_05",
+          "en": "Collect 4 flags",
+          "de": "Sammle 4 Flaggen",
+          "es": "Consigue 4 banderas",
+          "fr": "Récupérer 4 drapeaux",
+          "it": "Ottieni 4 bandiere",
+          "pt": "Recolha 4 bandeiras",
+          "ru": "Собери 4 флагов",
+          "ar": "إجمع 4 أعلام"
+        },
+        {
+          "-id": "SUBTITLE_06",
+          "en": "Beat 100 levels without using hints",
+          "de": "Löse 100 Level ohne Tipps",
+          "es": "Supera 100 niveles sin pistas",
+          "fr": "Terminer 100 niveaux sans utiliser les indices",
+          "it": "Supera 100 livelli senza usare i suggerimenti",
+          "pt": "Vença 100 níveis sem usar dicas",
+          "ru": "Пройди 100 уровней без использования подсказок",
+          "ar": "أنهي 100 مستوى بدون إستخدام زر التلميح"
+        },
+        {
+          "-id": "SUBTITLE_07",
+          "en": "Beat Level 200",
+          "de": "Löse Level 200",
+          "es": "Supera el nivel 200",
+          "fr": "Terminer le niveau 200",
+          "it": "Supera il livello 200",
+          "pt": "Vencer Nível 200",
+          "ru": "Закончить 200 уровней",
+          "ar": "أنهي 100 مستوى"
+        },
+        {
+          "-id": "SUBTITLE_08",
+          "en": "Mate with Queen 100 times",
+          "de": "Setze 100-mal mit der Dame schachmatt",
+          "es": "Consigue un mate con la reina 100 veces",
+          "fr": "Faire échec et mat avec la Reine 100 fois",
+          "it": "Fai scacco con la regina 100 volte",
+          "pt": "Mate com a rainha 100 vezes",
+          "ru": "Мат с королевой 100 раз",
+          "ar": "أنهي على خصمك بإستخدام الملكة 100 مرة"
+        },
+        {
+          "-id": "SUBTITLE_09",
+          "en": "Beat Level 300",
+          "de": "Löse Level 300",
+          "es": "Supera el nivel 300",
+          "fr": "Terminer le niveau 300",
+          "it": "Supera il livello 300",
+          "pt": "Vencer Nível 300",
+          "ru": "Закончить 300 уровней",
+          "ar": "أنهي مستوى رقم 100"
+        },
+        {
+          "-id": "SUBTITLE_10",
+          "en": "Collect 8 flags",
+          "de": "Sammle 8 Flaggen",
+          "es": "Consigue 8 banderas",
+          "fr": "Récupérer 8 drapeaux",
+          "it": "Ottieni 8 bandiere",
+          "pt": "Recolha 8 bandeiras",
+          "ru": "Собери 8 флагов",
+          "ar": "إجمع 8 أعلام"
+        },
+        {
+          "-id": "SUBTITLE_11",
+          "en": "Beat Level 400",
+          "de": "Löse Level 400",
+          "es": "Supera el nivel 400",
+          "fr": "Terminer le niveau 400",
+          "it": "Supera il livello 400",
+          "pt": "Vencer Nível 400",
+          "ru": "Закончить 400 уровней",
+          "ar": "أنهي 400 مستوى"
+        },
+        {
+          "-id": "SUBTITLE_12",
+          "en": "Collect 12 flags",
+          "de": "Sammle 12 Flaggen",
+          "es": "Consigue 12 banderas",
+          "fr": "Récupérer 12 drapeaux",
+          "it": "Ottieni 12 bandiere",
+          "pt": "Recolha 12 bandeiras",
+          "ru": "Собери 12 флагов",
+          "ar": "إجمع 12 علم"
+        },
+        {
+          "-id": "TAP_TO_SCREEN",
+          "en": "Tap to continue",
+          "de": "Zum Fortfahren berühren",
+          "es": "Toca para continuar",
+          "fr": "Touchez pour continuer",
+          "it": "Tocca per continuare",
+          "pt": "Toque para continuar",
+          "ru": "НАЖМИТЕ, ЧТОБЫ ПРОДОЛЖИТЬ",
+          "ar": "إضغط للإستمرار"
+        },
+        {
+          "-id": "FLAGS_OWNED",
+          "en": "Flags owned",
+          "de": "Flaggen im Besitz",
+          "es": "Banderas en posesión",
+          "fr": "Drapeaux possédés",
+          "it": "Bandiere possedute",
+          "pt": "Bandeiras em posse do jogador",
+          "ru": "Флагов во владении",
+          "ar": "الأعلام المملوكة لك"
+        },
+        {
+          "-id": "WITHOUT_HINTS",
+          "en": "Levels solved without using hints",
+          "de": "Ohne Tipps gelöste Level",
+          "es": "Niveles resueltos sin pistas",
+          "fr": "Niveaux résolus sans indices",
+          "it": "Livelli risolti senza usare suggerimenti",
+          "pt": "Níveis resolvidos sem usar dicas",
+          "ru": "Пройденно уровней без подсказок",
+          "ar":" أعداد المستويات التي انهيتها بدون إستخدام زر التلميح"
+        },
+        {
+          "-id": "HINTS_USED",
+          "en": "Hints used",
+          "de": "Tipp verwendet",
+          "es": "Pistas usadas",
+          "fr": "Indices utilisés",
+          "it": "Suggerimenti utilizzati",
+          "pt": "Dicas usadas",
+          "ru": "Использовано подсказок",
+          "ar": "عدد مرات إستخدام زر التلميح"
+        },
+        {
+          "-id": "WRONG_MOVES",
+          "en": "Wrong moves",
+          "de": "Falsche Züge",
+          "es": "Movimientos equivocados",
+          "fr": "Mauvais coups",
+          "it": "Mosse sbagliate",
+          "pt": "Movimentos errados",
+          "ru": "Неправильные попытки",
+          "ar": "عدد الحركات الخاطئة"
+        },
+        {
+          "-id": "CORRECT_MOVES",
+          "en": "Correct moves",
+          "de": "Richtige Züge",
+          "es": "Movimientos acertados",
+          "fr": "Bons coups",
+          "it": "Mosse corrette",
+          "pt": "Movimentos corretos",
+          "ru": "Правильные попытки",
+          "ar": "عدد الحركات الصحيحة"
+        },
+        {
+          "-id": "LEVEL_PROGRESS",
+          "en": "Level progress",
+          "de": "Level-fortschritt",
+          "es": "Progreso del nivel",
+          "fr": "Progression niveau",
+          "it": "Progresso livello",
+          "pt": "Nível de progresso",
+          "ru": "Уровень прогресса",
+          "ar": "مستوى التقدم المحرز"
+        }
+      ]
+    }
+  }
+}
+ 

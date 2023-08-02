@@ -1,0 +1,94 @@
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="user-scalable=no">
+
+    <style type="text/css">
+        body {
+            margin: 0;
+            background-color: #102b07;
+        }
+
+        @font-face {
+            font-family: "gameFont";
+            font-style: normal;
+            font-weight: 400;
+            src: url("fnt/Cantarell-Bold.ttf");
+        }
+    </style>
+
+    <!--<script>-->
+    <!--window.addEventListener("load", function () {-->
+    <!--function onTouchPreventDefault(event) {-->
+    <!--event.preventDefault();-->
+    <!--}-->
+    <!--document.addEventListener("touchmove", onTouchPreventDefault, false);-->
+    <!--document.addEventListener("touchstart", onTouchPreventDefault, false);-->
+    <!--}, false);-->
+    <!--</script>-->
+
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/game.css" />
+</head>
+
+<body style="background-color: #777777">
+    <div id="wrongRotation">
+        <img src="images/rotate_screen.png" alt="" />
+    </div>
+
+    <div id="game">
+        
+        <script>
+            document.addEventListener(
+                "deviceready",
+                function() {
+                    document.addEventListener(
+                        "backbutton",
+                        function() {
+                            //  about
+                            if (aboutShowed) {
+                                SceneAbout.instance.cancelAbout();
+                            }
+                            //  quit
+                            else if (grpSceneSelectMode.visible && !quitAppActive) {
+                                SceneGame.instance.executeAction(ACTIONS.QUIT_APP);
+                            }
+                            //  exit back
+                            else if (quitAppActive) {
+                                SceneInfoDialog.instance.OnPressedNo();
+                            }
+                            //  instructions
+                            else if (infoShowed) {
+                                SceneInfo.instance.cancelInstruction();
+                            }
+                            //  game
+                            else if (grpSceneGame.visible && !grpScenePause.visible) {
+                                if (!dealingCards) {
+                                    SceneGame.instance.executeAction(ACTIONS.PAUSE);
+                                }
+                            }
+                            //  pause
+                            else if (grpSceneGame.visible && grpScenePause.visible) {
+                                SceneGame.instance.executeAction(ACTIONS.UNPAUSE);
+                            }
+                        },
+                        false
+                    );
+                },
+                false
+            );
+        </script>
+    </div>
+
+    <div class="font_preload" style="opacity: 0">
+        <span style="font-family: 'gameFont', Arial, normal"></span>
+    </div>
+	<script src="lib/phaser.js"></script>
+	<script src="lib/screenfull.js"></script>
+	<script src="game.js"></script>
+	<script src="hooks.js"></script>
+</body>
+
+</html>
